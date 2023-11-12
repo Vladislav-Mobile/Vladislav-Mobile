@@ -16,9 +16,11 @@ ____
 
 ____
 
-🔵🔵 Главный Telegram-канал про мобильное тестирование(https://t.me/QAMobileApps)
-🔵  Курс для Junior(https://t.me/juniorqamobile)
-🔵  Курс для Middle\Senior(https://t.me/qacourse)
+🔵 [Главный Telegram-канал про мобильное тестирование](https://t.me/QAMobileApps)
+____
+🔵  [Курс для Junior](https://t.me/juniorqamobile)
+____
+🔵  [Курс для Middle\Senior](https://t.me/qacourse)
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=vladislav-mobile&style=flat-square&color=green" alt=""/>
