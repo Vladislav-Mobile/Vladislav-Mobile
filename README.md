@@ -16,7 +16,7 @@ ____
 ____
 :white_check_mark: [Тест на знание мобильного тестирования](https://docs.google.com/forms/d/e/1FAIpQLSfktoGfR6IiEl7ztXSkmV_l6KXP4GW-Q1ULMTsCjCrm5wT9BA/viewform?usp=sf_link)
 
-:white_check_mark: [Примеры заданий на собеседовании на мобильного тестировщика](https://drive.google.com/file/d/1u_B-9KhxjUH3WtxaQpdS1OBl0ajdK7ln/view?usp=sharing)
+:white_check_mark: [Примеры заданий на собеседовании на мобильного тестировщика](https://drive.google.com/file/d/1YvVSODideJuAWflEDw1b6mXjyWuniFfS/view?usp=sharing)
 ____
 
 🔵 [Главный Telegram-канал про мобильное тестирование](https://t.me/QAMobileApps)
