@@ -26,6 +26,7 @@ Open the project locally in Android Studio or Xcode.
 Working with a real app helps develop practical skills and prepares you for real-world QA tasks.
 
 — [iOS Repository](https://github.com/Vladislav-Mobile/Cats-in-App-iOS)
+
 — Android Repository  
 
 ---
